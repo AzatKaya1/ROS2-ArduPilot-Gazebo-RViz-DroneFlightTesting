@@ -122,7 +122,7 @@ Now we can fly the drone.
 python3 trial1
 
 ```
-
+The drone has successfully executed the given commands and landed.
 
 
 
