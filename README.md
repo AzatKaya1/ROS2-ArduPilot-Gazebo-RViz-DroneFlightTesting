@@ -12,7 +12,7 @@ ros2 launch ardupilot_gz_bringup iris_runway.launch.py
 
 ```
 
-## 2.-
+## 2.
 Then, we will open a new terminal and place the necessary Python3 code into the test 1 folder.
 
 ```sh
