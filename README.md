@@ -1,7 +1,7 @@
 # ROS2 l ArduPilot l Gazebo l RViz l Drone Flight Testing
 This guide aims to simulate a basic drone flight application using Gazebo and RViz.
 
-## ------------------1------------------
+## 1.
 First, open a new terminal and enter the commands required to launch the Gazebo and RViz applications.
 
 ```sh
@@ -12,7 +12,7 @@ ros2 launch ardupilot_gz_bringup iris_runway.launch.py
 
 ```
 
-## ------------------2------------------
+## 2.-
 Then, we will open a new terminal and place the necessary Python3 code into the test 1 folder.
 
 ```sh
@@ -114,7 +114,7 @@ master.mav.command_long_send(
 - ctrl + X (EXIT)
 
 
-## ------------------3------------------
+## 3.
 Now we can fly the drone.
 
 ```sh
